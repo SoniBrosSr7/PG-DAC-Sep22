@@ -86,6 +86,12 @@ Link: www.hackerrank.com/sep22-hackerank-challenge-1
 			4.b2=b3;
 
 			5.Book b1 = new Book();
+
+<hr>
+      
+        Q1.WAP in Java for Solar system.
+	
+	Q2.WAP in Java for Banking system.
 			
 <hr>			
 
