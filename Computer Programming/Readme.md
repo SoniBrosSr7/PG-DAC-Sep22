@@ -93,7 +93,37 @@ Link: www.hackerrank.com/sep22-hackerank-challenge-1
 	
 	Q2.WAP in Java for Banking system.
 			
-<hr>			
+<hr>	
+
+	
+Q1. WAP to print and overload a method "Print" with following type:
+	-int
+	-float
+	-double
+	-int, float, double
+	-String
+	
+	
+Q2. WAP for Cricketer details. Add some instance variable and method.Also 
+	apply the concepts of constructor overloading as follows:
+	
+	-default constructor - 1
+	-parameterised constructor -2/3
+	-apply constructor overloading.
+	-method overloading
+	-this keyword
+	
+Q3. WAP for Diet.Protein content.
+	-class
+	-object
+	-Data hiding
+	-Abstarction
+	-Encapsulation
+	-constructors
+	-methods
+	-overloading
+	
+<hr>
 
 # Interview Questions
 
