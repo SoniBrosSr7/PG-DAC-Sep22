@@ -1,3 +1,5 @@
+# Operating System Book ppt : https://www.os-book.com/OS9/slide-dir/index.html
+
 Day 1: Operating System
 
 Date: 20-09-2022
