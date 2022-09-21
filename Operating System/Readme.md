@@ -35,89 +35,51 @@ Topics:
 	
 	Linux
 	-------
-      -1991
-      
-      -freely available,open source
-      
-      -Kernel
-      
-      -user & developer
-      
-      -Portable
-      
-      -Root User
-      
-      -Directory
-      
-      -/
-      
-      -Secure
-      
-      
-      -H/w cost low
-      
-      -Linus Torvalds
-      
-      -32/64 bit
-      
-      -compiler : C, C++, Fortran,JVM
-      
-      -Tools: sed, awk, grep....
-      
-      -Newtwork:putty, telnet, ftp, ping,...
-      
-      -GUI
-      
-      -Multitasking, Multiprogramming, Multiuser
-      
-      -multiple platforms
-      
+      -1991      
+      -freely available,open source      
+      -Kernel      
+      -user & developer      
+      -Portable      
+      -Root User      
+      -Directory      
+      -/      
+      -Secure         
+      -H/w cost low      
+      -Linus Torvalds      
+      -32/64 bit      
+      -compiler : C, C++, Fortran,JVM      
+      -Tools: sed, awk, grep....      
+      -Newtwork:putty, telnet, ftp, ping,...      
+      -GUI      
+      -Multitasking, Multiprogramming, Multiuser      
+      -multiple platforms      
       -Distro
-
             -Ubuntu
-
             -mint
-
             -Fedora
-
             -RedHat
-
             -CentOS
-	
+	    
 	Architecture:
-  
-		-Hardware
-    
-		-Kernel
-    
-		-System call interface
-    
+  		-Hardware    
+		-Kernel    
+		-System call interface    
 		-Application/Commands
 	
 	Shell:
-	-It is a program that lies on the interface between users and kernel.
-  
-	-CLI: Command Line Interpreter.
-  
+	-It is a program that lies on the interface between users and kernel.  
+	-CLI: Command Line Interpreter.  
 	-Types:
       -Bourne shell(.sh)
-
       -C shell(.sh)
-
       -Korn shell(.ksh)
-
       -Bourne Again Shell (bash)(.sh)
 
 	File system:
-
     -Top directory: 'root (/)'
-
     -username & password
-
     -unique name
-
     -case sensetive (Shell, shell)
-
     -C, C++, Fortran, Pascal, Java, cobol,
 
     -Shell programming 
@@ -129,9 +91,7 @@ Date: 21-09-2022
 ---------------------------------------------------
 
 Topics:
-
 	-Process Management
-	
 	-Linux	Commands
 	
 Process:
