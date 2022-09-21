@@ -6,26 +6,19 @@ Date: 20-09-2022
 Topics:
 
 	-Introduction to Operating System
-  
-	-Introduction to Linux
+  	-Introduction to Linux
 	
 	Operating system:
-  
-	OS : CLI (Linux), GUI ( Windows)
+  	OS : CLI (Linux), GUI ( Windows)
 	
 	
 	UNIX :stability
 	------
       -1969
-      
       -AT&T Bell Lab, Ken Thompson & Dennis Ritche
-      
-      -CLI
-      
-      -copywrites
-      
-      -Complete OS
-      
+      -CLI      
+      -copywrites     
+      -Complete OS      
       -servers, workstations and mainframes
       
       -Not portable
@@ -145,40 +138,29 @@ Process:
 ---------
 
 	-instance of computer program
-	
-	-shorter lifespan
-	
-	-h/w directly invovled
-	
-	-dynamic instance for code & data
-	
+	-shorter lifespan	
+	-h/w directly invovled	
+	-dynamic instance for code & data	
 	-running instance
 
 Program:
 ---------
-	-collection of instruction
-	
-	-longer timespan
-	
-	-h/w not directly invovled
-	
-	-static code & data
-	
+	-collection of instruction	
+	-longer timespan	
+	-h/w not directly invovled	
+	-static code & data	
 	-execute code
 
 
 Process concept:
 ----------------
-	-Batch system -jobs
-	
+	-Batch system -jobs	
 	-Time shared systems-time slice (quantum)
 	
 	-Execution:
 	
-		-program counter
-		
-		-stack
-		
+		-program counter		
+		-stack		
 		-data section
 	
 
@@ -191,146 +173,101 @@ Process Control Block:
 
 Process Scheduling:
 --------------------
-	-process which is in ready state
-	
-	-process will move from ready to running state(allocating CPU)
-	
-	-Aim : to keep CPU busy to get maximum CPU utilization.
-	
+	-process which is in ready state	
+	-process will move from ready to running state(allocating CPU)	
+	-Aim : to keep CPU busy to get maximum CPU utilization.	
 	-to deliver minimum response time
 
 Scheduling:
 -----------
-	1.Non-preemptive Scheduling
+	1.Non-preemptive Scheduling	
 	
-	
-	2.Preemptive Scheduling
-	
-		-some priority will be given for CPU allocation
-		
-		-based on criteria:
-		
-			-shortest
-			
-			-First
-			
-			-time slice=5min
-			
+	2.Preemptive Scheduling	
+		-some priority will be given for CPU allocation		
+		-based on criteria:		
+			-shortest			
+			-First			
+			-time slice=5min			
 			-longest
 
 	
 Linux Commands:
 ---------------	
-	man : to take help
-	
+	man : to take help	
 	man ls:
 	
 	ls:To list the files
 	
-		-a
-		
-		-l
-		
-		-d
-		
-		-c
-		
-		-S
-		
+		-a		
+		-l		
+		-d		
+		-c		
+		-S		
 		-h
 
 	cd : change directory
 	
-		cd dir_name
-		
-		cd ~
-		
+		cd dir_name		
+		cd ~		
 		cd ..
-		
-		cd ../ ../
-		
+		cd ../ ../		
 		cd - 
 
 	pwd:working directory
 
-	cp : copy the content of file
-	
-		-cp -i(iteractive)
-		
+	cp : copy the content of file	
+		-cp -i(iteractive)		
 		-cp -r <source> <destination>
 	mkdir
 
 	rm
-
 	rm -rf
-
-	mv <old> <new>
-	
-	rm filename
-	
-	rm file1 file2 file3
-	
+	mv <old> <new>	
+	rm filename	
+	rm file1 file2 file3	
 	rm -i
 
-	cat file1 
-	
-	cat > file
-	
+	cat file1 	
+	cat > file	
 	cat >> file
 
-	head [-n] file
-	
+	head [-n] file	
 	head -2 x2.txt
-
 	tail -2 x2.txt
 
 	grep
 
-	sort file
-	
-	sort -r file
-	
+	sort file	
+	sort -r file	
 	sort -ru file
 
 	Regular Expressions:
 	----------------------
 
 		. 	character
-		
-		[]	match any character listed in the brackets
-		
-		[^ ]match any character not listed in the brackets
-		
-		^	matches in the begining of the line
-		
-		$	matches in the end of the line
-		
+		[]	match any character listed in the brackets		
+		[^ ]	match any character not listed in the brackets		
+		^	matches in the begining of the line		
+		$	matches in the end of the line		
 		*	match with anything
 
-	man
-	
-	-h
-	
+	man	
+	-h	
 	-help
 	
 
 	Users & Permissions:
 	--------------------
-	
 	3 types access writes
 	
-		-Read : r
-		
-		-Write : w
-		
+		-Read : r		
+		-Write : w		
 		-Execute :x
 
 	3 types of levels
 	
-		-User : u : owner
-		
-		-Group : g : each file accessable to given list of users
-		
+		-User : u : owner		
+		-Group : g : each file accessable to given list of users		
 		-Others : o : other user
 
 <hr>
